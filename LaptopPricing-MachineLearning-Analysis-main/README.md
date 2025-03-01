@@ -43,8 +43,3 @@ The dataset used in this analysis is LaptopPricing.csv, which contains various f
   <img src="src/R2_2.png" alt="R2_for-alphas" width="800"/>
 </div>
 
-## Contributing
-Contributions are welcome! Please fork this repository and submit pull requests.
-
-## License
-This project is licensed under the MIT License.
